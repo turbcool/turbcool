@@ -1,0 +1,2 @@
+- 📫 How to reach me: https://t.me/turbcool
+- My skills: C# (ASP.Net), Ember.JS, PostgreSQL, VueJS (a bit), R/Python (a bit).
