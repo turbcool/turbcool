@@ -1,2 +1,2 @@
 - 📫 How to reach me: https://t.me/turbcool
-- My stack: ASP.Net Core, Ember.JS, PostgreSQL, R/Python (a bit).
+- My stack: Ember.JS, ASP.NET Web Api, PostgreSQL, R/Python (a bit).
