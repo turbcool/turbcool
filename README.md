@@ -1,2 +1,5 @@
 - 📫 How to reach me: https://t.me/turbcool
-- My stack: Ember.JS, ASP.NET Web Api, PostgreSQL, R/Python (a bit).
+- My stack: 
+  -  Frontend: Ember.JS, SvelteJS
+  -  Backend: ASP.NET Web Api (NET 6+)
+  -  Other: PostgreSQL, R/Python (a bit).
