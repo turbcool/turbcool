@@ -1,6 +1,6 @@
 - 📫 How to reach me: https://t.me/turbcool
 - My stack: 
-  -  Frontend: Ember.JS, SvelteJS
-  -  Backend: ASP.NET Web Api (.NET 6+), EF Core
+  -  Frontend: SvelteJS, Next JS
+  -  Backend: ASP.NET Web Api (.NET 8+), EF Core
   -  Database: PostgreSQL
   -  Other: Python, R
